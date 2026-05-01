@@ -1,5 +1,5 @@
 # walmart-account-gen
-This makes Walmart USA accounts bypasses sms and can create account with numerous SMS APIs. Also handles PX with a custom solution and finger printing.
+This makes Walmart USA accounts as it bypasses sms (works 50% of the time) and can create account with numerous SMS APIs. Also handles PX with a custom solution and finger printing.
 
 Feel free to reach me at @ trustyourjs@protonmail.com
 
